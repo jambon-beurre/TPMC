@@ -2,10 +2,6 @@ h1#bienvenue {
 	text-align : center;
 }
 
-h1 {
-	
-}
-
 a {
 	color : green;
 }
@@ -22,11 +18,11 @@ body {
 	margin-right: auto;
 }
 	
-section,header,footer {	
+section:not(.article),header,footer {	
 	background-color: beige;
 	padding:0.3em;
 	border:0.05em solid black;
-	border-radius:0.2em;
+	border-radius:0.4em;
 }
 
 header img{
@@ -45,4 +41,33 @@ header {
 
 footer {
 	margin-top:0.3em;
+}
+
+section.article table td {
+	padding:0.5em;
+	background-color:white;
+}
+
+section.article table img {
+	width:150px;
+	height:150px;
+}
+
+table {
+	
+}
+
+#panier {
+	text-align:center;
+}
+
+.ancien {
+	text-decoration:line-through;
+	margin:0;
+}
+
+.solde {
+	font-size:20pt;
+	color:orange;
+	margin-top:0;
 }
