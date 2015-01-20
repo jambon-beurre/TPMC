@@ -8,7 +8,7 @@
 
 	<body>
 		<header>
-			<img src="assets/logo.png">
+			<img src="assets/logo.png" alt="logo">
 			<h1>Tout pour mon chien</h1>
 			<table class="Tmenu">
 				<tr>
@@ -29,8 +29,8 @@
 			<h2>Client :</h2>
 			<p>Nom : <input type="text"></p>
 			<p>Prénom : <input type="text"></p>
-			<p>Numéro de téléphone fixe : <input type="text" id="barre_tel"></p>
-			<p>Numéro de téléphone portable : <input type="text" id="barre_tel"></p>
+			<p>Numéro de téléphone fixe : <input type="text" class="barre_tel"></p>
+			<p>Numéro de téléphone portable : <input type="text" class="barre_tel"></p>
 			
 			<h2>Localité / Livraison:</h2>
 			<p>Pays : <select><option>France</option><option>Allemagne</option><option>Espagne</option><option>Royaume-Uni</option></select></p>
@@ -46,7 +46,7 @@
   			
   			<h2>Confirmation :</h2>
   			<p><label><input name="cond_util" type="checkbox" value="l"> J'accepte les conditions d'utilisation</label></p>
-  			<p id="confirm"><button>Continuer</button></p>
+  			<p id="confirm"><button onclick="self.location.href='404.html'">Continuer</button></p>
 		</section>
 		<footer>
 			<a href="qsn.html">Qui sommes nous?</a>

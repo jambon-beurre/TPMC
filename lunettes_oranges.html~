@@ -31,6 +31,22 @@
 				</aside>
 			</div>
 
+			<div class="tarif">
+				<table>
+					<tr>
+						<td>
+							<h2>Prix :</h2>
+							<p class="prix">19,99€</p>
+						</td>
+						<td>
+							<button onclick="self.location.href='panier.html'"> Ajouter au panier </button>
+						</td>
+					</tr>
+				</table>
+				
+			</div>
+
+
 			<div class="commentaires">
 				<h2>Commentaires :</h2>
 				<p>Aucun commentaire à afficher.</p>

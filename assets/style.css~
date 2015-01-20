@@ -98,7 +98,7 @@ body {
 	margin-right: auto;
 }
 	
-section:not(.article):not(.envoiMail),header,footer {	
+section:not(.article):not(.envoiMail):not(.fb),header,footer {	
 	background-color: beige;
 	padding:0.3em;
 	border:0.05em solid black;

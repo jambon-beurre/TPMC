@@ -49,6 +49,9 @@
 								</select>
 							</p>
 						</td>
+						<td>
+							<button onclick="self.location.href='panier.html'"> Ajouter au panier </button>
+						</td>
 					</tr>
 				</table>
 				
