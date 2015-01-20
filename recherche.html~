@@ -17,13 +17,13 @@
 					<td class="menu"><a href="formulaire.html">PANIER</a></td>
 					<td class="menu"><a href="">CONTACT</a></td>
 					<td class="menu"><a href="">NOS MAGASINS</a></td>
-					<td class="menu" id="recherche">RECHERCHE : <input type="text" id="barre"> <button> OK </button></td>
+					<td class="menu" id="recherche">RECHERCHE : <input type="text" id="barre"> <button onclick="self.location.href='recherche.html'"> OK </button></td>
 				</tr>
 			</table>
 		</header>
 		<section>
-			<h1 class="page">Qui sommes-nous?</h1>
-			<p>Ce site a été créé par Valentin MICHUT et Félix SABATIE</p>
+			<h1 class="page">Résulats de la recherche</h1>
+			<p>Aucun article corespondant à votre recherche</p>
 			<a href="accueil.html">Retour à l'accueil</a>
 		</section>
 		<footer>
