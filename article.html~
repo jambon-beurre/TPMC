@@ -17,7 +17,7 @@
 					<td class="menu"><a href="formulaire.html">PANIER</a></td>
 					<td class="menu"><a href="">CONTACT</a></td>
 					<td class="menu"><a href="">NOS MAGASINS</a></td>
-					<td class="menu" id="recherche">RECHERCHE : <input type="text" id="barre"> <button> OK </button></td>
+					<td class="menu" id="recherche">RECHERCHE : <input type="text" id="barre"> <button onclick="self.location.href='recherche.html'"> OK </button></td>
 				</tr>
 			</table>
 		</header>

@@ -48,6 +48,8 @@
   			<p><label><input name="cond_util" type="checkbox" value="l"> J'accepte les conditions d'utilisation</label></p>
   			<p id="confirm"><button>Passer à la suite</button></p>
 		</section>
-		
+		<footer>
+			<a href="qsn.html">Qui sommes nous?</a>
+		</footer>
 	</body>
 </html>

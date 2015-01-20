@@ -8,8 +8,8 @@
 
 	<body>
 		<section>
-			<h1>Bienvenue sur Tout Pour Mon Chien!</h1>
-			<a href="accueil.html">Accéder au site</a>
+			<div><h1 id="bienvenue">Bienvenue sur Tout Pour Mon Chien!</h1></div>
+			<table id="acceder"><a href="accueil.html">Accéder au site</a></table>
 		</section>
 	</body>
 </html>

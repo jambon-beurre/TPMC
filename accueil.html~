@@ -12,12 +12,12 @@
 			<h1>Tout pour mon chien</h1>
 			<table class="Tmenu">
 				<tr>
-					<td class="menu"><a href="accueil.html">ACCUEIL</a></td>
-					<td class="menu"><a href="">PRODUITS</a></td>
+					<td class="menu"><a href="index.html">ACCUEIL</a></td>
+					<td class="menu"><a href="accueil.html">PRODUITS</a></td>
 					<td class="menu"><a href="formulaire.html">PANIER</a></td>
-					<td class="menu"><a href="">CONTACT</a></td>
-					<td class="menu"><a href="">NOS MAGASINS</a></td>
-					<td class="menu" id="recherche">RECHERCHE : <input type="text" id="barre"> <button onclick="self.location.href='index.html'"> OK </button></td>
+					<td class="menu"><a href="contact.html">CONTACT</a></td>
+					<td class="menu"><a href="magasins.html">NOS MAGASINS</a></td>
+					<td class="menu" id="recherche">RECHERCHE : <input type="text" id="barre"> <button onclick="self.location.href='recherche.html'"> OK </button></td>
 				</tr>
 			</table>
 		</header>
