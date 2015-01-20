@@ -22,13 +22,36 @@
 			</table>
 		</header>
 		<section>
-			<h1 class="page">Manteau rose laine</h1>
+			<h1 class="page">Chaussures de ville "Converse"</h1>
 			<div class="description">
-				<img src="assets/chaussure_converse.jpg">
+				<img src="assets/chaussures_converse.jpg">
 				<aside>
 					<h2>Description :</h2>
 					<p>Voici le tout dernier produit de notre collection : des chaussures de ville pour votre gardien de maison à 4 pattes ! Il pourra se promener dans les rues de votre ville (ou de votre village pour les plus ruraux d'entre vous) sans risquer d'abîmer ses doux coussinets. A l’abri de l'humidité podale, votre chien vivra heureux, il se mariera, et aura beaucoup d'enfants (si vous n'avez pas tout fait contre). Au final, vous seriez bien obligés de vous laissez tenter par ce quatuor en textile...</p>
 				</aside>
+			</div>
+
+			<div class="tarif">
+				<table>
+					<tr>
+						<td>
+							<h2>Prix :</h2>
+							<p class="ancien">49,99€</p>
+							<p class="solde">34,99€</p> 
+						</td>
+						<td class="selec">
+							<p>Taille : 
+								<select>
+									<option>S</option>
+									<option>M</option>
+									<option>L</option>
+									<option>XL</option>
+								</select>
+							</p>
+						</td>
+					</tr>
+				</table>
+				
 			</div>
 
 			<div class="commentaires">

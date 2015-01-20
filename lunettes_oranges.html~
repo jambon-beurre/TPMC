@@ -24,21 +24,16 @@
 		<section>
 			<h1 class="page">Lunettes oranges</h1>
 			<div class="description">
-				<img src="assets/manteau_rose.jpg">
+				<img src="assets/lunettes_oranges.jpg">
 				<aside>
 					<h2>Description :</h2>
-					<p>Voici un accessoire indispensable pour votre chien en cas de sortie hivernale : ce petit manteau rose sublimera votre canin sans aucun doute ! Rembourré de laine et avec un col étroit, il tiendra votre chien au chaud même dans les conditions les plus périlleuses. Pourquoi rose ? Tout simplement parce que c'est classe. En bref, n'hésitez plus à sortir votre chien !</p>
+					<p>Ces lunettes feront tout simplement de votre chien, une star. Est-ce que la classe de cette paire de lunettes est égalable ? C'est peu probable… surtout si elle est portée par votre chien ! Pour la couleur, nous ne pouvons pas trop vous expliquer d'où elle vient puisque c'est dans un de nos labos top secrets qu'elle a été confectionnée. Mais pas d’inquiétude, c'est homologué !</p>
 				</aside>
 			</div>
 
 			<div class="commentaires">
 				<h2>Commentaires :</h2>
-				<table class="com">
-					<tr>
-						<td class="avatar"><img src="assets/micheline.jpg"></td>
-						<td class="comtxt"><p>Ne voulant pas vexer mon chien en lui refusant de prendre un veste de petite taille, mon berger allemand est coincé dedans depuis une semaine. Plusieurs sociétés spécialisées sont déjà venues pour lui retirer, sans succès, mais au final je pense qu'il s'y fera. La couleur est sublime, et la petite poche à l'arrière est bien pratique pour ranger son goûté dedans. Encore merci ! La bise, Micheline.</p></td>
-					</tr>
-				</table>
+				<p>Aucun commentaire à afficher.</p>
 				<h3>Ajouter un commentaire :</h3>
 				<textarea class="entrercom" placeholder="Entrez votre commentaire ici..."></textarea>
 				<button onclick="self.location.href='post.html'">Poster</button>

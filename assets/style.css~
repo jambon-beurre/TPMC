@@ -215,6 +215,7 @@ h2
 {
 	width:20%;
 	height:auto;
+	padding:5pt 5pt 5pt 5pt;
 }
 
 .comtxt
@@ -234,4 +235,20 @@ h3
 {
 	width:80%;
 	display:block;
+}
+
+.tarif
+{
+	width:60%;
+}
+
+.selec
+{
+	width:30%;
+}
+
+.prix
+{
+	color:green;
+	font-size:20pt;
 }

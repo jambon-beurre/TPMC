@@ -22,21 +22,45 @@
 			</table>
 		</header>
 		<section>
-			<h1 class="page">Manteau rose laine</h1>
+			<h1 class="page">Chaussures de ville en cuir</h1>
 			<div class="description">
-				<img src="assets/manteau_rose.jpg">
+				<img src="assets/chaussures_cuir.jpg">
 				<aside>
 					<h2>Description :</h2>
 					<p>Votre chien ne sort pas le soir ? Il ne vous en a jamais demandé la permission ? C'est sûrement parce qu'il n'a pas de chaussures adaptées à ce genre de sortie ! Nos chaussures noires en cuir de lama des neiges sont essentielles pour tout type de sortie nocturne. Votre chien risque de faire des jaloux, ou de faire tomber du monde sous son charme, mais c'est tout à son avantage ! Cela lui donnera confiance en lui, il prendra ses marques dans la société, pourra gravir les échelons, et pourquoi pas obtenir une place importante au sein du gouvernement ?</p>
 				</aside>
 			</div>
 
-			<div class="commentaires">
-				<h2>Commentaires :</h2>
-				<table class="com">
-					<tr>					
+			<div class="tarif">
+				<table>
+					<tr>
+						<td>
+							<h2>Prix :</h2>
+							<p class="ancien">49,99€</p>
+							<p class="solde">34,99€</p> 
+						</td>
+						<td class="selec">
+							<p>Taille : 
+								<select>
+									<option>S</option>
+									<option>M</option>
+									<option>L</option>
+									<option>XL</option>
+								</select>
+							</p>
+						</td>
+						<td>
+							<button onclick="self.location.href='panier.html'"> Ajouter au panier </button>
+						</td>
 					</tr>
 				</table>
+				
+			</div>
+
+
+			<div class="commentaires">
+				<h2>Commentaires :</h2>
+				<p>Aucun commentaire à afficher.</p>
 				<h3>Ajouter un commentaire :</h3>
 				<textarea class="entrercom" placeholder="Entrez votre commentaire ici..."></textarea>
 				<button onclick="self.location.href='post.html'">Poster</button>

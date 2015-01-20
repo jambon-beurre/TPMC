@@ -31,11 +31,36 @@
 				</aside>
 			</div>
 
+			<div class="tarif">
+				<table>
+					<tr>
+						<td>
+							<h2>Prix :</h2>
+							<p class="prix">19,99€>
+						</td>
+						<td class="selec">
+							<p>Taille : 
+								<select>
+									<option>S</option>
+									<option>M</option>
+									<option>L</option>
+									<option>XL</option>
+								</select>
+							</p>
+						</td>
+						<td>
+							<button onclick="self.location.href='panier.html'"> Ajouter au panier </button>
+						</td>
+					</tr>
+				</table>
+				
+			</div>
+
 			<div class="commentaires">
 				<h2>Commentaires :</h2>
 				<table class="com">
 					<tr>
-						<td class="avatar"><img src="micheline.jpg"></td>
+						<td class="avatar"><img src="assets/micheline.jpg"></td>
 						<td class="comtxt"><p>Ne voulant pas vexer mon chien en lui refusant de prendre un veste de petite taille, mon berger allemand est coincé dedans depuis une semaine. Plusieurs sociétés spécialisées sont déjà venues pour lui retirer, sans succès, mais au final je pense qu'il s'y fera. La couleur est sublime, et la petite poche à l'arrière est bien pratique pour ranger son goûté dedans. Encore merci ! La bise, Micheline.</p></td>
 					</tr>
 				</table>
