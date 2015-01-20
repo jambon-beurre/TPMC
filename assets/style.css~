@@ -50,12 +50,9 @@ section.article table td {
 
 section.article table img {
 	width:150px;
-	height:auto;
+	height:150px;
 }
 
-table {
-	
-}
 
 #panier {
 	text-align:center;

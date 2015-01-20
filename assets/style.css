@@ -1,3 +1,45 @@
+#barre
+{
+	width: 40%;
+}
+td.menu
+{
+	background-color: lightblue;
+    	border: 1px solid black; 
+    	font-size: 1.2em;
+    	padding: 1 10 1 10;
+    	border-radius: 0.4em;
+    	font-size: 100%;
+    	text-align: center;
+}
+
+table.Tmenu
+{
+	width: 100%;
+}
+
+td.menu:hover:not(#recherche)
+{
+	background-color: grey;
+}
+
+
+td.menu:not(#recherche):active
+{
+	background-color: grey;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+
+table
+{
+	margin: auto;
+}
+
 h1#bienvenue {
 	text-align : center;
 }
@@ -53,10 +95,6 @@ section.article table img {
 	height:150px;
 }
 
-table {
-	
-}
-
 #panier {
 	text-align:center;
 }
@@ -70,4 +108,29 @@ table {
 	font-size:20pt;
 	color:orange;
 	margin-top:0;
+}
+
+#barre2
+{
+	width: 5%;
+}
+
+#Haut_form
+{
+	text-align: center;
+}
+
+#barre_tel
+{
+	width: 8%;
+}
+
+h2
+{
+	font-size: 100%;
+}
+
+#confirm
+{
+	text-align: center;
 }

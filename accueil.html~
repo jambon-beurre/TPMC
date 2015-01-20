@@ -47,7 +47,7 @@
 					</tr>
 
 					<tr>
-						<td class="image"><img src="assets/chaussures_converse.jpg"></td>
+						<td class="image"><a href="chaussures_converse.html"><img src="assets/chaussures_converse.jpg"></td></a>
 						<td class="description"><p>Chaussures de ville, pour tout type de chien.</p><a href="chaussures_converse.html">Fiche produit</a></td>
 						<td class="prix"><p class="ancien">49.99€</p><p class="solde">34,99€</p><a href="panier.html">Ajouter au panier</a>
 					</tr>
