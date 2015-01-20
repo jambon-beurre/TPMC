@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="assets/style.css">
+		<title> TPMC </title>
+	</head>
+
+	<body>
+		<header>
+			<img src="assets/logo.png">
+			<h1>Tout pour mon chien</h1>
+			<table class="Tmenu">
+				<tr>
+					<td class="menu"><a href="index.html">ACCUEIL</a></td>
+					<td class="menu"><a href="accueil.html">PRODUITS</a></td>
+					<td class="menu"><a href="formulaire.html">PANIER</a></td>
+					<td class="menu"><a href="contact.html">CONTACT</a></td>
+					<td class="menu"><a href="magasins.html">NOS MAGASINS</a></td>
+					<td class="menu" id="recherche">RECHERCHE : <input type="text" id="barre"> <button onclick="self.location.href='recherche.html'"> OK </button></td>
+				</tr>
+			</table>
+		</header>
+		<section>
+			<h1 class="page">Manteau rose laine</h1>
+			<div class="description">
+				<img src="assets/manteau_rose.jpg">
+				<aside>
+					<h2>Description :</h2>
+					<p>Voici le tout dernier produit de notre collection : des chaussures de ville pour votre gardien de maison à 4 pattes ! Il pourra se promener dans les rues de votre ville (ou de votre village pour les plus ruraux d'entre vous) sans risquer d'abîmer ses doux coussinets. A l’abri de l'humidité podale, votre chien vivra heureux, il se mariera, et aura beaucoup d'enfants (si vous n'avez pas tout fait contre). Au final, vous seriez bien obligés de vous laissez tenter par ce quatuor en textile...</p>
+				</aside>
+			</div>
+
+			<div class="commentaires">
+				<h2>Commentaires :</h2>
+				<table class="com">
+					<tr>
+						<td class="avatar"><img src="assets/micheline.jpg"></td>
+						<td class="comtxt"><p>Salu jé acheter les chossures pr mon chi1 psk il a froi o pied, et il a tjrs froi o pied !!!! vs étes nuuuul srx……… LeBoGossDu94</p></td>
+					</tr>
+				</table>
+				<h3>Ajouter un commentaire :</h3>
+				<textarea class="entrercom" placeholder="Entrez votre commentaire ici..."></textarea>
+				<button onclick="self.location.href='post.html'">Poster</button>
+			</div>
+		</section>
+		<footer>
+			<a href="qsn.html">Qui sommes nous?</a>
+		</footer>
+	</body>
+</html>
