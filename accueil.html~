@@ -23,19 +23,20 @@
 		</header>
 		<section>
 			<h1 class="page">Accueil</h1>
+			<h2>Nos produits :</h2>
 			<section class="article">
 
-				<table cellspacing=5em> 
+				<table id="articles"> 
 					<tr>
-						<td class="image"><a href="manteau_rose.html"><img src="assets/manteau_rose.jpg"></td></a>
+						<td class="image"><a href="manteau_rose.html"><img src="assets/manteau_rose.jpg"></a></td>
 						<td class="description"><p>Manteau rose rembourré en laine, avec col. Pour chien de taille petite à moyenne.</p><a href="manteau_rose.html">Fiche produit</a></td>
-						<td class="prix"><p>19,99€</p><a href="panier.html">Ajouter au panier</a>
+						<td class="prix"><p>19,99€</p><a href="panier.html">Ajouter au panier</a></td>
 					</tr>
 
 					<tr>
-						<td class="image"><a href="manteau_rouge.html"><img src="assets/manteau_rouge.jpg"></td></a>
+						<td class="image"><a href="manteau_rouge.html"><img src="assets/manteau_rouge.jpg"></a></td>
 						<td class="description"><p>Manteau rouge imperméable à capuche. Pour chien de taille petite à moyenne.</p><a href="manteau_rouge.html">Fiche produit</a></td>
-						<td class="prix"><p class="ancien">29,99€</p><p class="solde">24,99€</p><a href="panier.html">Ajouter au panier</a>
+						<td class="prix"><p class="ancien">29,99€</p><p class="solde">24,99€</p><a href="panier.html">Ajouter au panier</a></td>
 					</tr>
 
 					<tr>

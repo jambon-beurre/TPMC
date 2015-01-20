@@ -18,6 +18,16 @@
 	border-radius:0.2em;
 }
 
+#articles
+{
+	border-spacing:5pt;
+}
+
+#form
+{
+	text-align:center;
+}
+
 td.menu
 {
 	background-color: lightblue;
@@ -157,7 +167,6 @@ section.article table img {
 {
 	width:80%;
 	height:50pt;
-	text-align:;
 }
 
 h2

@@ -7,9 +7,9 @@
 	</head>
 
 	<body>
-		<section>
+		<section id="index">
 			<div><h1 id="bienvenue">Bienvenue sur Tout Pour Mon Chien!</h1></div>
-			<table id="acceder"><a href="accueil.html">Accéder au site</a></table>
+			<div id="acceder"><a href="accueil.html">Accéder au site</a></div>
 		</section>
 	</body>
 </html>

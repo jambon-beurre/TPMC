@@ -18,6 +18,11 @@
 	border-radius:0.2em;
 }
 
+#articles
+{
+	border-spacing:5pt;
+}
+
 td.menu
 {
 	background-color: lightblue;
@@ -42,7 +47,7 @@ td.menu a
 	color:black;
 }
 
-td:hover a
+td.menu:hover a
 {
 	color:white;
 }
@@ -157,7 +162,6 @@ section.article table img {
 {
 	width:80%;
 	height:50pt;
-	text-align:;
 }
 
 h2
