@@ -121,6 +121,7 @@ header {
 
 footer {
 	margin-top:0.3em;
+	display:block;
 }
 
 section.article table td {
@@ -179,7 +180,59 @@ h2
 	text-align: center;
 }
 
-.page
+.description img
 {
-	
+	width:30%;
+	height:auto;
+	vertical-align:middle;
+	border:0.1em solid black;
+	border-radius:0.4em;
+}
+
+.description aside
+{
+	width:65%;
+	display:inline-block;
+	text-align:justify;
+	border:0.2em solid orange;
+	padding:5pt 5pt 5pt 5pt;
+	border-radius:0.4em;
+	vertical-align:middle;
+}
+
+.commentaires
+{
+	margin-top:3em;
+}
+
+.com
+{
+	width:100%;
+	display:block;
+}
+
+.avatar
+{
+	width:20%;
+	height:auto;
+	padding:5pt 5pt 5pt 5pt;
+}
+
+.comtxt
+{
+	width:75%;
+	text-align:justify;
+	background-color:lightgrey;
+	padding:0pt 5pt 0pt 5pt;
+}
+
+h3
+{
+	font-size:11pt;
+}
+
+.entrercom
+{
+	width:80%;
+	display:block;
 }
